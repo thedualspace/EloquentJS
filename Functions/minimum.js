@@ -1,1 +1,0 @@
-const minimum = (A, B) => A > B ? B : A;
