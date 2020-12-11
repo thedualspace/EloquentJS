@@ -45,5 +45,3 @@ const deepEqual = ( object1, object2 ) => {
   //If the objects are neither arrays nor objects, a normal comparison is sufficient.
   return object1 === object2;
 };
-
-console.log( deepEqual( onj1, onj2) );
